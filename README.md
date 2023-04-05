@@ -1,4 +1,4 @@
-# Rede Hoteleira Européia - Projeto de classificação
+# Rede Hoteleira - Projeto de classificação
 
 #  * Hackday 4ª Edição Comunidade DS
 
