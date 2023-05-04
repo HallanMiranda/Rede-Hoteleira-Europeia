@@ -18,20 +18,25 @@ Métrica de Desempenho: F1-Score
 Os conjuntos de dados usados na competição podem ser encontrados em https://www.kaggle.com/competitions/cdshackdays4/data
 ### 3. Estratégia de Solução
 
-### 1. Realizar uma rápida leitura dos dados e fazer a execução, seguindo a estrutura:
-    * Análise de descrição de dados
-    * Engenharia de recursos
-    * Filtragem de Dados
-    * Seleção de recursos
-    * Modelagem de aprendizado de máquina
-    * Entender o desempenho do modelo
+### 1. Realizar uma rápida leitura dos dados e fazer a execução, seguindo o ciclo de desenvolvimento para Data Science CRISP-DS:
+
+    * Questão de Negócio
+    * Entendimento do Negócio
+    * Coleta de Dados
+    * Limpeza dos Dados
+    * Exploração dos Dados
+    * Modelagem dos Dados
+    * Algotitimos de Machne Learning
+    * Avalição do Algotitimo
+    * Modelo em produção
     * Enviar previsões para a competição do Kaggle
+    
     2. Testar diferentes métodos de codificação e modelos de aprendizado de máquina.
     3. Ajustar parâmetros do modelo.
     
 ### 4. Ferramentas e modelos de aprendizado de máquina
     * Python 3.11.2
-    * seletor de recursos  Boruta
+    * seletor de recursos Boruta
     * Regressão Linear
     * Random Forest Regressor
     * XGBoost Regressor
