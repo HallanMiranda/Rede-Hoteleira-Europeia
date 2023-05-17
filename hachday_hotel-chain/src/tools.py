@@ -22,7 +22,7 @@ def cramer_v( x, y ):
     return np.sqrt( (chi2corr/n) / ( min( kcorr-1, rcorr-1 ) ) )
 
 def jupyter_settings():
-
+    %matplotlib inline
     plt.style.use( 'bmh' )
     plt.rcParams['figure.figsize'] = [25, 12]
     plt.rcParams['font.size'] = 24
