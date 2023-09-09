@@ -59,4 +59,4 @@ Existem vários passos adicionais que poderiam ser aplicados ao projeto. Alguns 
 
 ### Referências:
     * Conjuntos de Dados de Avaliação de Cancelamento da Rede Hoteleira de Kaggle
-    * Blog Seja um Data Scientist
+    * Blog Seja um Data Scientist.
