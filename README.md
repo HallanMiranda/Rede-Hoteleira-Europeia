@@ -50,7 +50,7 @@ Desempenho final:
 A equipe desenvolveu um modelo final que utilizou as previsões dos modelos XGBoost e Random Forest Classifier. Esse modelo alcançou uma pontuação F1 de 0.91217. Com base nesses resultados, é possível afirmar que o modelo desenvolvido pode ser muito útil para a Costa del Data na previsão de cancelamentos de reservas de hotéis. Com essa previsão antecipada, a rede poderá tomar ações preventivas para minimizar o impacto dessas ocorrências.
 
 ## 7. Próximos Passos.
-Existem vários passos adicionais que poderiam ser aplicados ao projeto. Alguns deles listados abaixo:
+Existem vários passos adicionais que poderiam ser aplicados ao projeto. Alguns deles listados abaixo
 
     * Realizar uma análise mais profunda dos dados.
     * Juntar dados de treinamento e teste e treinar o modelo novamente antes da submissão.
