@@ -1,6 +1,6 @@
 # Rede Hoteleira - Projeto de classificação
 
-#  * 4º Edição Hackdays Comunidade DS
+#  * 4º Edição Hackday Comunidade DS
 
 Nos dias 25 e 26 de março de 2023, a Comunidade DS promoveu um evento Hackday com uma competição de aprendizado de máquina (https://www.kaggle.com/competitions/cdshackdays4).
 Este repositório contém notebooks e o modelo final desenvolvido pela equipe.
