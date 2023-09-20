@@ -14,7 +14,7 @@ A gerencia deseja saber o motivo pelo qual os clientes estão cada vez mais canc
 Construir um modelo de aprendizado de máquina para prever se a reserva será cancelada ou não e obter o melhor desempenho.
 Métrica de Desempenho: F1-Score
 
-### 2. Dados
+### 2. Os Dados
 Os conjuntos de dados usados na competição podem ser encontrados em https://www.kaggle.com/competitions/cdshackdays4/data
 ### 3. Estratégia de Solução
 
