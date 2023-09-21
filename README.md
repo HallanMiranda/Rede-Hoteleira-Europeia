@@ -42,7 +42,7 @@ Os conjuntos de dados usados na competição podem ser encontrados em https://ww
     * XGBoost Regressor
    
 
-### 5. Desempenho dos Modelos
+### 5. Desempenho do Modelo
 Desempenho final:
     * F1 Score: 0.91217
     
