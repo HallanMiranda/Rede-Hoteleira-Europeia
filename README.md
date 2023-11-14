@@ -36,7 +36,6 @@ Os conjuntos de dados usados na competição podem ser encontrados em https://ww
     
 ### 4. Ferramentas e modelos de aprendizado de máquina
     * Python 3.11.2
-    * seletor de recursos Boruta
     * Regressão Linear
     * Random Forest Regressor
     * XGBoost Regressor
